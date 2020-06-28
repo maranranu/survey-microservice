@@ -26,3 +26,5 @@ coverage/
 
 .env
 *.sqlite3
+
+*.png
