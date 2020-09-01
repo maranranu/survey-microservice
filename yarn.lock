@@ -1401,7 +1401,9 @@ express-status-monitor@^0.1.9:
   resolved "https://registry.yarnpkg.com/express-status-monitor/-/express-status-monitor-0.1.9.tgz#dd505c7ca4aba5022b633af1a21afc9fe4c52db5"
   dependencies:
     on-headers "^1.0.1"
-    pidusage "^1.1.0"
+    
+    
+    usage "^1.1.5"
     socket.io "^1.5.1"
 
 express@^4.15.2:
